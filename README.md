@@ -63,3 +63,9 @@ An experienced corporate sales account manager with 6+ years of expertise in bus
   foodpanda Bangladesh Ltd  
   Phone: 01913959292  
   Email: [tanimsaker@yahoo.com](mailto:tanimsaker@yahoo.com)
+
+  # Download My CV
+
+You can download my detailed CV from the link below:
+
+[Download CV (PDF)](https://github.com/username/username/blob/main/CV.pdf)
